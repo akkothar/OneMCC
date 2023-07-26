@@ -1,36 +1,36 @@
 [submodule "PIMLibrary"]
-	path = PIMLibrary
-	url = https://github.com/SAITPublic/PIMLibrary.git
-	branch = develop
+        path = PIMLibrary
+        url = git@github.com:SAITPublic/PIMLibrary.git
+        branch = develop
 [submodule "PIMSimulator"]
-	path = PIMSimulator
-	url = https://github.com/SAITPublic/PIMSimulator.git
-	branch = dev
+        path = PIMSimulator
+        url = git@github.com:SAITPublic/PIMSimulator.git
+        branch = dev
 [submodule "PIMMock"]
-	path = PIMMock
-	url = https://github.com/SAITPublic/PIMMock.git
-	branch = master
+        path = PIMMock
+        url = git@github.com:SAITPublic/PIMMock.git
+        branch = master
 [submodule "PimPyLibrary"]
-	path = PimPyLibrary
-	url = https://github.com/SAITPublic/PimPyLibrary.git
-	branch = master
+        path = PimPyLibrary
+        url = git@github.com:SAITPublic/PimPyLibrary.git
+        branch = master
 [submodule "PIMPatches"]
-	path = PIMPatches
-	url = https://github.com/SAITPublic/PIMPatches.git
-	branch = main
+        path = PIMPatches
+        url = git@github.com:SAITPublic/PIMPatches.git
+        branch = main
 [submodule "SYCL-Extension-Document"]
-	path = SYCL-Extension-Document
-	url = https://github.com/SAITPublic/SYCL-Extension-Document.git
-	branch = master
+        path = SYCL-Extension-Document
+        url = git@github.com:SAITPublic/SYCL-Extension-Document.git
+        branch = master
 [submodule "PimAiCompiler"]
-	path = PimAiCompiler
-	url = https://github.com/SAITPublic/PimAiCompiler.git
-	branch = master
+        path = PimAiCompiler
+        url = git@github.com:SAITPublic/PimAiCompiler.git
+        branch = master
 [submodule "PIMmodels"]
-	path = PIMmodels
-	url = https://github.com/SAITPublic/PIMmodels.git
-	branch = main
+        path = PIMmodels
+        url = git@github.com:SAITPublic/PIMmodels.git
+        branch = main
 [submodule "PNMLibrary"]
-	path = PNMLibrary
-	url = https://github.com/SAITPublic/PNMLibrary.git
-	branch = master
+        path = PNMLibrary
+        url = git@github.com:SAITPublic/PNMLibrary.git
+        branch = master
